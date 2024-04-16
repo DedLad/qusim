@@ -13,4 +13,8 @@ The qubit simulator includes multiple test files written in Python, C, and C++ f
 - C files
 - C++ files
 
+> :warning: **Warning:** The files provided in this repository are intended for experimentation purposes only. They should not be run without clear knowledge and understanding of their functionality.
+
 Usage guide will be added later.
+
+
