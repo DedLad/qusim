@@ -1,3 +1,4 @@
+# Do not Use this code, WILL KILL YOUR PC
 import hashlib
 import itertools
 import time

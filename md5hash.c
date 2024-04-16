@@ -1,3 +1,4 @@
+// INCOMPLETE - This program is incomplete and is intended to be used as a reference for the MD5 hash brute-force attack using qubits.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
